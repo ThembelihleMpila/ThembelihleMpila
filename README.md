@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThembelihleMpila
-- 👀 I’m interested in analysing data,developing
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in analysing data,AI and handling data.
+- 🌱 I’m currently learning Data Science and AI Engineer
 - 💞️ I’m looking to collaborate on real life projects to enhance my skills
 - 📫 How to reach me on email thembelihle.mpila6th@gmail.com or Linkedin Thembelihle Mpila
 - 😄 Pronouns: ...
